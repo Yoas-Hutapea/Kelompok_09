@@ -1,0 +1,4 @@
+# github.com/Yoas-Hutapea/Kelompok_09/auth_service => ./auth_service
+# github.com/Yoas-Hutapea/Kelompok_09/kegiatan_service => ./kegiatan_service
+# github.com/Yoas-Hutapea/Kelompok_09/penduduk_service => ./penduduk_service
+# github.com/Yoas-Hutapea/Kelompok_09/perangkatdesa_service => ./perangkatdesa_service
